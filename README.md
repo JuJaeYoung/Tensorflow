@@ -27,14 +27,15 @@ Ex1103
 ```
 * 2022/11/04
 ```
-Ex1104
 # 합성곱 신경망Ⅰ
-  1. fashion_mnist
-    1-1. DNN
-    1-2. CNN
-  2. mnist
-    2-1. DNN
-    2-2. CNN
+Ex1104_1
+# fashion_mnist
+  1. DNN
+  2. CNN
+Ex1104_2
+# mnist
+  1. DNN
+  2. CNN
 ```
 
 
