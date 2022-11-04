@@ -29,6 +29,12 @@ Ex1103
 ```
 Ex1104
 # 합성곱 신경망Ⅰ
+  1. fashion_mnist
+    1. DNN
+    2. CNN
+  2. mnist
+    1. DNN
+    2. CNN
 ```
 
 
