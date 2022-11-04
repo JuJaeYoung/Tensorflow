@@ -33,6 +33,7 @@ Ex1104_1
 # fashion_mnist
   1. DNN
   2. CNN
+  
 Ex1104_2
 # mnist
   1. DNN
